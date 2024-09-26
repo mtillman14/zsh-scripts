@@ -1,0 +1,7 @@
+[exclude]
+files = [
+    "create_lockfile.zsh",
+    "new_note.zsh",
+    "remove_lockfile.zsh",
+
+]
